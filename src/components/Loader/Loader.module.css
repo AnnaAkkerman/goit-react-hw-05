@@ -1,0 +1,5 @@
+.loader {
+  display: flex;
+  height: calc(100vh - 56px);
+  justify-content: center;
+}
