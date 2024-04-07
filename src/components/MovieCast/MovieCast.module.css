@@ -1,0 +1,12 @@
+.cast {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+
+  gap: 50px;
+}
+.actor {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
